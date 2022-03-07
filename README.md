@@ -1,6 +1,6 @@
 # Social App with React, Redux and Firebase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Here is a working live demo [](https://social-app-e247e.web.app).
 
 ## Available Scripts
 
