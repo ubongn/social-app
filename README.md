@@ -3,6 +3,8 @@
 Here is a working live demo https://social-app-e247e.web.app.
 
 
+![alt text](/public/Screenshot.png)
+
 
 ## Built with 
 
